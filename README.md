@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asfundmalik
-- 👀 I’m interested in Programming 
+- 👀 I’m interested in mobile ,web and console applications development. 
 - 🌱 I’m currently working on .Net Technologies
 - 📫 reach me via asfundmalik1416@gmail.com
 
